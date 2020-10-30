@@ -1,0 +1,30 @@
+body * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.artykol {
+    border-style: solid;
+    display: flex;
+}
+
+figure {
+    border-style: solid;
+    width: 25%;
+}
+
+.dokument {
+    border-style: solid;
+
+}
+
+h3 {
+    border-style: solid;
+}
+
+.adj {
+    width: 225px;
+    height: 255px;
+}
